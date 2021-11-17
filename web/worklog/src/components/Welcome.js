@@ -9,7 +9,7 @@ class Welcome extends React.Component {
 			<Container>
 				<Row>
 					<Col sm={{size: 6, offset: 5}}>
-						<h1>修正版です</h1>
+						<h1>皆様本日はありがとうございます</h1>
 					</Col>
 				</Row>
 				<Row>
